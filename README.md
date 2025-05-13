@@ -91,7 +91,7 @@ python devicecleanup.py
 3. Prints a console summary: total stale devices.
 4. Saves stale devices to `stale_devices.json` and `stale_devices.csv`.
 5. Moves stale devices into the SureMDM Recycle Bin.
-6. Prompts (or reads `.env`) for a verification code to `FORCEDELETE_DEVICE` permanently.
+6. Prompts for a verification code to `FORCEDELETE_DEVICE` permanently.
 
 ### Customizing
 
