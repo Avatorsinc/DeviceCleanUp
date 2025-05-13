@@ -81,7 +81,7 @@ MY_PASSWORD=your_password
 Run the script:
 
 ```bash
-python device_cleanup.py
+python devicecleanup.py
 ```
 
 **Steps performed**:
