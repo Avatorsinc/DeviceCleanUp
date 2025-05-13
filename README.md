@@ -74,7 +74,6 @@ FORCE_DELETE_VERIFICATION_CODE=123456   # optional (or you’ll be prompted)
 * **API\_KEY**: Your SureMDM `ApiKey` header value
 * **MY\_EMAIL**: SureMDM login username
 * **MY\_PASSWORD**: SureMDM login password
-* **FORCE\_DELETE\_VERIFICATION\_CODE**: (Optional) Pre‑set your verification code for permanent delete
 
 ---
 
