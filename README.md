@@ -68,7 +68,6 @@ Create a `.env` file in the project root with:
 API_KEY=your_suremdm_api_key
 MY_EMAIL=your_username@example.com
 MY_PASSWORD=your_password
-FORCE_DELETE_VERIFICATION_CODE=123456   # optional (or you’ll be prompted)
 ```
 
 * **API\_KEY**: Your SureMDM `ApiKey` header value
