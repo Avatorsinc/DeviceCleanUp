@@ -41,7 +41,7 @@ This repository contains a Python script to automate the identification and clea
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/yourusername/suremdm-device-cleanup.git
+   git clone https://github.com/Avatorsinc/DeviceCleanUp.git
    cd suremdm-device-cleanup
    ```
 
